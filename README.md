@@ -1,5 +1,5 @@
 # Cryptography---19CS415-classical-techqniques
-# Ex-1(b) PlayFair Cipher
+# Ex-2 PlayFair Cipher
 Playfair Cipher using with different key values
 
 ## AIM:
