@@ -1,5 +1,3 @@
-### Vishwaraj G.
-### 212223220125
 # Cryptography---19CS415-classical-techqniques
 # Ex-1(b) PlayFair Cipher
 Playfair Cipher using with different key values
